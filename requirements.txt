@@ -1,0 +1,7 @@
+agno
+mistralai
+haystack-ai
+haystack-integrations
+qdrant-haystack
+python-dotenv
+pydantic
